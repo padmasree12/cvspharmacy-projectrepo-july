@@ -1,7 +1,6 @@
 working with the cvspharmacy cervices
 
 creditcard transactions report
-<<<<<<< Updated upstream
 
 billingchang3
 change4
